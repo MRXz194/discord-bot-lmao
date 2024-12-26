@@ -2,6 +2,7 @@
 # Date and time: 12/26/2024 09:13 AM
 # Day: Thursday
 # Description: A simple Discord bot to play lo? game :))
+# github: https://github.com/MRXz194   Discord: kz5198
 import os
 import random
 import discord
